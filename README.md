@@ -27,11 +27,11 @@ php artisan make:seeder EmployeesTableSeeder
 ```
 php artisan db:seed
 ```
-# Tạo file trong thư mục Models
+## Tạo file trong thư mục Models
 ```
 php artisan make:model Employee
 ```
-# Tạo file trong thư mục Controllers
+## Tạo file trong thư mục Controllers
 ```
 php artisan make:controller EmployeeController 
 ```
